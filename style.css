@@ -108,9 +108,10 @@ td {
 
 .row {
     display: grid;
-    grid-template-columns: auto auto auto auto
+    grid-template-columns: auto auto auto auto auto auto auto
 }
 
+
 .card img {
-    width: 250px;
+    width: 140px;
 }

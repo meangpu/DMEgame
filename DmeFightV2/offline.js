@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1606438909,
+	"version": 1606439843,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,7 +36,6 @@
 		"images/iceselect-sheet0.png",
 		"images/kokselect-sheet0.png",
 		"images/puselect-sheet0.png",
-		"images/sprite-sheet0.png",
 		"images/player_ice-sheet0.png",
 		"images/player_ice-sheet1.png",
 		"images/puultimate-sheet0.png",
@@ -51,7 +50,6 @@
 		"images/kokparulti.png",
 		"images/bossultipar.png",
 		"images/iceultpar.png",
-		"images/sprite2-sheet0.png",
 		"images/bossalt.png",
 		"images/particles2.png",
 		"images/ulthit.png",
@@ -60,6 +58,8 @@
 		"images/level2-sheet0.png",
 		"images/lv3bg1_4.png",
 		"images/level3-sheet0.png",
+		"images/controlbutton-sheet0.png",
+		"images/tiledbackground.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

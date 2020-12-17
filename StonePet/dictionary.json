@@ -1,0 +1,12 @@
+{
+	"c2dictionary": true,
+	"data": {
+	"player1": "sadness",
+	"player2": 
+	{
+			"health": 50,
+			"love": 20
+	}
+	}
+
+}

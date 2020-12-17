@@ -51,7 +51,7 @@ body {
 }
 
 .container {
-    width: 1200px;
+    width: 1000px;
     overflow: hidden;
     height: auto;
     margin: 4px auto;
@@ -70,5 +70,5 @@ td {
 }
 
 .card img {
-    width: 180px;
+    width: 150px;
 }

@@ -1,74 +1,97 @@
-.wrapper {
-    font-family: 'Kanit', sans-serif;
-    width: 80%;
-    margin: 0 auto;
-    position: relative;
-}
-
-h1 {
-    color: rgb(255, 255, 255);
-    font-family: 'Kanit', sans-serif;
-    text-align: center;
-    font-size: 60px
-}
-
-h3 {
-    font-family: 'Kanit', sans-serif;
-    text-align: center;
-    font-size: 30px
-}
-
-img {
-    opacity: 1;
-    display: block;
-    width: 100%;
-    height: auto;
-    transition: .5s ease;
-}
-
-img.rounded-corners {
-    border-radius: 30px;
-}
-
 body {
-    font-family: 'Kanit', sans-serif;
-    margin: 0;
-    padding: 0;
-    background: #2f3640;
+  margin: 0;
+  background: #2f3640;
 }
 
-.overlay {
-    opacity: 0
+h1{
+  font-family: 'Calibri';
+  font-weight: bold;
+  color: white;
+  align-items: center;
+  justify-content: center;
 }
 
-.wrapper:hover img {
-    opacity: .2;
-    transform: scale(1.08);
+
+b{
+  color: rgb(255, 255, 255);
+  font-size: 30px;
 }
 
-.wrapper:hover .overlay {
-    opacity: 1
+div.gallery {
+  margin: 10px;
+  float: left;
+  width: 150px;
 }
 
-.container {
-    width: 1000px;
-    overflow: hidden;
-    height: auto;
-    margin: 4px auto;
-    padding: 5px;
+div.gallery img {
+
+  border-radius: 30px;
+  width: 100%;
+  height: auto;
+  transition: .4s ease;
 }
 
-table,
-tr,
-td {
-    border: black solid 1px;
+div.gallery img:hover {
+  opacity: .6;
+  transform: scale(1.05);
 }
 
-.row {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto
+div.desc {
+  font-family: 'Calibri';
+  color: #ccc;
+  text-align: center;
 }
 
-.card img {
-    width: 150px;
+.flex-container {
+  margin: auto;
+  width: 60%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  
+}
+  
+.flex-container > div {
+  margin: 10px;
+}
+
+
+ul {
+  font-family: 'Calibri';
+  font-weight: bold;
+  font-size: 25px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(15, 15, 15);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(43, 43, 43);
+}
+
+.active {
+  background-color: #1d1d2c;
+}
+
+.center{
+  text-align: center;
+
 }

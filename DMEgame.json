@@ -1,0 +1,109 @@
+{
+  "gameData": [
+    {
+      "name": "DME run",
+      "des": "unfinished cookie run clone",
+      "img": "/img/1.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DMErun/",
+      "date": "2019"
+    },
+    {
+      "name": "CubeClicker",
+      "des": "Cookie clone first version",
+      "img": "/img/2.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/CubeClicker/",
+      "date": "2019"
+    },
+    {
+      "name": "KKU aquarium",
+      "des": "1 hour Insaniquarium clone",
+      "img": "/img/3.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/KKUaquarium/",
+      "date": "2019"
+    },
+    {
+      "name": "DinoWay",
+      "des": "The running dinosaur original",
+      "img": "/img/4.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/Dinaoway/",
+      "date": "2019"
+    },
+    {
+      "name": "DME jump",
+      "des": "platformer game ",
+      "img": "/img/DMEjump.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DMEjump/",
+      "date": "2019"
+    },
+    {
+      "name": "cookie clicker2",
+      "des": "Cookie clicker clone 2",
+      "img": "/img/ClickerBetter.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
+      "date": "2019"
+    },
+    {
+      "name": "NamAroi",
+      "des": "JOJO need water",
+      "img": "/img/NamAroi.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/NamAroi/",
+      "date": "2019"
+    },
+    {
+      "name": "DME fight",
+      "des": "2D local fighting game",
+      "img": "/img/fight.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DMEfight/",
+      "date": "2020"
+    },
+    {
+      "name": "meangpuRun",
+      "des": "my TA example game",
+      "img": "/img/meangpuRun.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/meangpuRun/",
+      "date": "2020"
+    },
+    {
+      "name": "Snake",
+      "des": "human vs ai snake game",
+      "img": "/img/snake.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/Snake/",
+      "date": "2020"
+    },
+    {
+      "name": "DME Fight 2",
+      "des": "version 2 of DME fight",
+      "img": "/img/fight2.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DmeFightV2/",
+      "date": "2020"
+    },
+    {
+      "name": "cubeFighter",
+      "des": "smash bro vs ai clone",
+      "img": "/img/cubefighter.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/cubeFighter/",
+      "date": "2020"
+    },
+    {
+      "name": "StonePet",
+      "des": "stone as pet simulator",
+      "img": "/img/stone.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/StonePet/",
+      "date": "2020"
+    },
+    {
+      "name": "ATM simulator",
+      "des": "The atm simulator, you can create money as much as you want",
+      "img": "/img/money.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/moneyProject/",
+      "date": "2020"
+    },
+    {
+      "name": "TA2021",
+      "des": "The example project use to teach in 2021",
+      "img": "/img/TA.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/TA2021/",
+      "date": "2021"
+    }
+  ]
+}
